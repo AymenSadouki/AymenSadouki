@@ -3,13 +3,13 @@
 
 First year cybersecurity student with hands on experience in digital forensics, secure system development, and security analysis through academic projects. Developed practical skills in:
 
-Threat Detection & Analysis: Conducted forensic investigations (Autopsy) to uncover evidence in a theft case using metadata analysis, password cracking (Caesar cipher), and hash verification (MD5/SHA-256).
+- Threat Detection & Analysis: Conducted forensic investigations (Autopsy) to uncover evidence in a theft case using metadata analysis, password cracking (Caesar cipher), and hash verification (MD5/SHA-256).
 
-Secure Software Development: Built a Java-based hotel booking system with input validation, role based access logic, and file based data protection.
+- Secure Software Development: Built a Java-based hotel booking system with input validation, role based access logic, and file based data protection.
 
-Authentication Security: Implemented a secure login system with SHA-256 + salt hashing, account lockout, and secret question recovery.
+- Authentication Security: Implemented a secure login system with SHA-256 + salt hashing, account lockout, and secret question recovery.
 
-Web Security: Designed a smartphone review website (PHP/JavaScript) while learning client side security best practices.
+- Web Security: Designed a smartphone review website (PHP/JavaScript) while learning client side security best practices.
 
 
 
